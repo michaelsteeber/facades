@@ -6051,7 +6051,7 @@
    "type": "Classic Upgrade",
    "url": "https://www.apple.com/retail/anchorage5thavenuemall/",
    "image": "R262",
-   "forum": false,
+   "forum": true,
    "avenues": false,
    "gp": true,
    "pickup": false,
