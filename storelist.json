@@ -22,6 +22,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -48,6 +50,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -74,6 +78,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -100,6 +106,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -126,6 +134,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -152,6 +162,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -178,6 +190,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -204,6 +218,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7bbdfc2dd20f4d9bad40/1664908221245/R008.jpg"
  },
@@ -230,6 +246,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -256,6 +274,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -282,6 +302,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -308,6 +330,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -334,6 +358,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -360,6 +386,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -386,6 +414,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -412,6 +442,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -438,6 +470,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -464,6 +498,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -490,6 +526,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -516,6 +554,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -542,6 +582,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -568,6 +610,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -594,6 +638,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -620,6 +666,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -646,6 +694,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -672,6 +722,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -698,6 +750,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -724,6 +778,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -750,6 +806,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -776,6 +834,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -802,6 +862,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -828,6 +890,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -854,6 +918,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -880,6 +946,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -906,6 +974,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -932,6 +1002,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -958,6 +1030,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7bcce85c534fdd889275/1664908236880/R038.jpg"
  },
@@ -984,6 +1058,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": true,
    "broken": "-"
  },
@@ -1010,6 +1086,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1036,6 +1114,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1062,6 +1142,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1088,6 +1170,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1114,6 +1198,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1140,6 +1226,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1166,6 +1254,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1192,6 +1282,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -1218,6 +1310,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1244,6 +1338,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1270,6 +1366,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": true,
    "broken": "-"
  },
@@ -1296,6 +1394,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -1322,6 +1422,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1348,6 +1450,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1374,6 +1478,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1400,6 +1506,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1426,6 +1534,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1452,6 +1562,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1478,6 +1590,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1504,6 +1618,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1530,6 +1646,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1556,6 +1674,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1582,6 +1702,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1608,6 +1730,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1634,6 +1758,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1660,6 +1786,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1686,6 +1814,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -1712,6 +1842,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1738,6 +1870,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1764,6 +1898,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1790,6 +1926,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1816,6 +1954,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1842,6 +1982,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -1868,6 +2010,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1894,6 +2038,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1920,6 +2066,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -1946,6 +2094,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -1972,6 +2122,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -1998,6 +2150,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2024,6 +2178,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2050,6 +2206,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2076,6 +2234,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2102,6 +2262,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2128,6 +2290,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2154,6 +2318,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2180,6 +2346,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2206,6 +2374,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2232,6 +2402,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -2258,6 +2430,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2284,6 +2458,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2310,6 +2486,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2336,6 +2514,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2362,6 +2542,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -2388,6 +2570,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2414,6 +2598,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2440,6 +2626,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -2466,6 +2654,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2492,6 +2682,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2518,6 +2710,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2544,6 +2738,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2570,6 +2766,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2596,6 +2794,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2622,6 +2822,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2648,6 +2850,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2674,6 +2878,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2700,6 +2906,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2726,6 +2934,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2752,6 +2962,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2778,6 +2990,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2804,6 +3018,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2830,6 +3046,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2856,6 +3074,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2882,6 +3102,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2908,6 +3130,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2934,6 +3158,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2960,6 +3186,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -2986,6 +3214,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3012,6 +3242,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3038,6 +3270,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3064,6 +3298,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3090,6 +3326,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3116,6 +3354,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3142,6 +3382,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3168,6 +3410,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3194,6 +3438,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3220,6 +3466,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3246,6 +3494,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3272,6 +3522,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3298,6 +3550,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3324,6 +3578,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3350,6 +3606,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3376,6 +3634,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3402,6 +3662,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c677f88f6120474c8b810/1664903039912/R133.jpg"
  },
@@ -3428,6 +3690,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": true,
    "broken": "-"
  },
@@ -3454,6 +3718,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3480,6 +3746,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3506,6 +3774,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3532,6 +3802,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3558,6 +3830,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3584,6 +3858,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3610,6 +3886,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3636,6 +3914,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3662,6 +3942,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3688,6 +3970,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3714,6 +3998,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3740,6 +4026,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3766,6 +4054,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3792,6 +4082,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3818,6 +4110,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c6783b6df617d933330f8/1664903044032/R150.jpg"
  },
@@ -3844,6 +4138,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3870,6 +4166,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3896,6 +4194,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3922,6 +4222,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3948,6 +4250,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -3974,6 +4278,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4000,6 +4306,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4026,6 +4334,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4052,6 +4362,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4078,6 +4390,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4104,6 +4418,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4130,6 +4446,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4156,6 +4474,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4182,6 +4502,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4208,6 +4530,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4234,6 +4558,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c65c3dc87ac19aadded8d/1664902595622/R171.jpg"
  },
@@ -4260,6 +4586,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4286,6 +4614,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c66037a2f6f4cd02a99ae/1664902659282/R173.jpg"
  },
@@ -4312,6 +4642,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4338,6 +4670,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4364,6 +4698,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4390,6 +4726,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4416,6 +4754,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -4442,6 +4782,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4468,6 +4810,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4494,6 +4838,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4520,6 +4866,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4546,6 +4894,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4572,6 +4922,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4598,6 +4950,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4624,6 +4978,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4650,6 +5006,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4676,6 +5034,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4702,6 +5062,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4728,6 +5090,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4754,6 +5118,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4780,6 +5146,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4806,6 +5174,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4832,6 +5202,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4858,6 +5230,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4884,6 +5258,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4910,6 +5286,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4936,6 +5314,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4962,6 +5342,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -4988,6 +5370,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7bf15dcc164480b03f84/1664908273263/R211.jpg"
  },
@@ -5014,6 +5398,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5040,6 +5426,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5066,6 +5454,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5092,6 +5482,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -5118,6 +5510,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5144,6 +5538,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5170,6 +5566,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5196,6 +5594,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5222,6 +5622,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5248,6 +5650,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5274,6 +5678,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5300,6 +5706,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5326,6 +5734,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5352,6 +5762,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5378,6 +5790,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5404,6 +5818,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5430,6 +5846,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5456,6 +5874,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5482,6 +5902,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5508,6 +5930,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": true,
    "broken": "-"
  },
@@ -5534,6 +5958,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5560,6 +5986,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5586,6 +6014,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5612,6 +6042,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5638,6 +6070,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5664,6 +6098,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5690,6 +6126,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5716,6 +6154,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -5742,6 +6182,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5768,6 +6210,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5794,6 +6238,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5820,6 +6266,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5846,6 +6294,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5872,6 +6322,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5898,6 +6350,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5924,6 +6378,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5950,6 +6406,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -5976,6 +6434,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6002,6 +6462,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6028,6 +6490,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6054,6 +6518,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6080,6 +6546,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6106,6 +6574,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6132,6 +6602,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6158,6 +6630,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6184,6 +6658,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6210,6 +6686,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6236,6 +6714,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6262,6 +6742,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7bfe382cd713e201d334/1664908286543/R272.jpg"
  },
@@ -6288,6 +6770,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6314,6 +6798,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6340,6 +6826,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7c0ced73fd6323a0dd0d/1664908300828/R276.jpg"
  },
@@ -6366,6 +6854,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6392,6 +6882,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6418,6 +6910,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6444,6 +6938,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6470,6 +6966,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6496,6 +6994,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6522,6 +7022,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6548,6 +7050,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6574,6 +7078,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6600,6 +7106,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6626,6 +7134,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6652,6 +7162,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6678,6 +7190,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6704,6 +7218,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6730,6 +7246,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6756,6 +7274,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6782,6 +7302,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6808,6 +7330,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6834,6 +7358,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6860,6 +7386,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6886,6 +7414,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6912,6 +7442,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6938,6 +7470,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -6964,6 +7498,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7c24ed73fd6323a0e102/1664908324976/R302.jpg"
  },
@@ -6990,6 +7526,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7016,6 +7554,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7042,6 +7582,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7068,6 +7610,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7094,6 +7638,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7120,6 +7666,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7146,6 +7694,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -7172,6 +7722,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7198,6 +7750,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7224,6 +7778,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7250,6 +7806,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7276,6 +7834,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7302,6 +7862,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -7328,6 +7890,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7354,6 +7918,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7380,6 +7946,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7406,6 +7974,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7432,6 +8002,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7458,6 +8030,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7484,6 +8058,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": true,
    "broken": "-"
  },
@@ -7510,6 +8086,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7536,6 +8114,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7562,6 +8142,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7588,6 +8170,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7614,6 +8198,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7640,6 +8226,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7666,6 +8254,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7692,6 +8282,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7718,6 +8310,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7744,6 +8338,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7770,6 +8366,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7796,6 +8394,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7822,6 +8422,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7848,6 +8450,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7874,6 +8478,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7900,6 +8506,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7926,6 +8534,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7952,6 +8562,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -7978,6 +8590,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8004,6 +8618,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8030,6 +8646,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8056,6 +8674,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8082,6 +8702,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8108,6 +8730,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8134,6 +8758,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8160,6 +8786,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c7c34ed73fd6323a0f333/1664908340473/R362.jpg"
  },
@@ -8186,6 +8814,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8212,6 +8842,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8238,6 +8870,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8264,6 +8898,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8290,6 +8926,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8316,6 +8954,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -8342,6 +8982,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8368,6 +9010,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8394,6 +9038,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8420,6 +9066,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8446,6 +9094,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8472,6 +9122,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8498,6 +9150,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8524,6 +9178,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -8550,6 +9206,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8576,6 +9234,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8602,6 +9262,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8628,6 +9290,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8654,6 +9318,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8680,6 +9346,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8706,6 +9374,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8732,6 +9402,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8758,6 +9430,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8784,6 +9458,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8810,6 +9486,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8836,6 +9514,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8862,6 +9542,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8888,6 +9570,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -8914,6 +9598,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8940,6 +9626,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8966,6 +9654,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -8992,6 +9682,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -9018,6 +9710,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -9044,6 +9738,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9070,6 +9766,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9096,6 +9794,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9122,6 +9822,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9148,6 +9850,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9174,6 +9878,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9200,6 +9906,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9226,6 +9934,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9252,6 +9962,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9278,6 +9990,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9304,6 +10018,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9330,6 +10046,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9356,6 +10074,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9382,6 +10102,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9408,6 +10130,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9434,6 +10158,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9460,6 +10186,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9486,6 +10214,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9512,6 +10242,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9538,6 +10270,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9564,6 +10298,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9590,6 +10326,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9616,6 +10354,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -9642,6 +10382,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9668,6 +10410,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9694,6 +10438,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9720,6 +10466,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9746,6 +10494,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9772,6 +10522,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": true,
    "broken": "-"
  },
@@ -9798,6 +10550,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9824,6 +10578,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9850,6 +10606,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9876,6 +10634,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9902,6 +10662,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9928,6 +10690,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9954,6 +10718,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -9980,6 +10746,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10006,6 +10774,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10032,6 +10802,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10058,6 +10830,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10084,6 +10858,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10110,6 +10886,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10136,6 +10914,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10162,6 +10942,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10188,6 +10970,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10214,6 +10998,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10240,6 +11026,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10266,6 +11054,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10292,6 +11082,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10318,6 +11110,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10344,6 +11138,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10370,6 +11166,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10396,6 +11194,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10422,6 +11222,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10448,6 +11250,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10474,6 +11278,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10500,6 +11306,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10526,6 +11334,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10552,6 +11362,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -10578,6 +11390,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10604,6 +11418,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10630,6 +11446,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10656,6 +11474,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10682,6 +11502,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10708,6 +11530,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10734,6 +11558,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10760,6 +11586,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10786,6 +11614,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10812,6 +11642,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10838,6 +11670,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10864,6 +11698,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10890,6 +11726,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10916,6 +11754,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10942,6 +11782,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10968,6 +11810,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -10994,6 +11838,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11020,6 +11866,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11046,6 +11894,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -11072,6 +11922,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11098,6 +11950,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11124,6 +11978,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11150,6 +12006,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11176,6 +12034,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11202,6 +12062,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11228,6 +12090,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11254,6 +12118,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11280,6 +12146,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -11306,6 +12174,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11332,6 +12202,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11358,6 +12230,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11384,6 +12258,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11410,6 +12286,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11436,6 +12314,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11462,6 +12342,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11488,6 +12370,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11514,6 +12398,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11540,6 +12426,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11566,6 +12454,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11592,6 +12482,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11618,6 +12510,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11644,6 +12538,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11670,6 +12566,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -11696,6 +12594,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11722,6 +12622,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11748,6 +12650,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11774,6 +12678,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11800,6 +12706,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11826,6 +12734,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": true,
    "broken": "-"
  },
@@ -11852,6 +12762,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11878,6 +12790,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11904,6 +12818,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -11930,6 +12846,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11956,6 +12874,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -11982,6 +12902,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12008,6 +12930,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12034,6 +12958,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12060,6 +12986,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12086,6 +13014,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12112,6 +13042,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12138,6 +13070,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": true,
    "broken": "-"
  },
@@ -12164,6 +13098,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -12190,6 +13126,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -12216,6 +13154,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12242,6 +13182,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12268,6 +13210,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12294,6 +13238,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12320,6 +13266,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12346,6 +13294,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12372,6 +13322,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12398,6 +13350,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12424,6 +13378,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12450,6 +13406,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12476,6 +13434,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12502,6 +13462,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12528,6 +13490,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12554,6 +13518,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12580,6 +13546,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12606,6 +13574,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12632,6 +13602,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12658,6 +13630,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12684,6 +13658,8 @@
    "forum": false,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12710,6 +13686,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -12736,6 +13714,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12762,6 +13742,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12788,6 +13770,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12814,6 +13798,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12840,6 +13826,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12866,6 +13854,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12892,6 +13882,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12918,6 +13910,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -12944,6 +13938,8 @@
    "forum": true,
    "avenues": false,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12970,6 +13966,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -12996,6 +13994,8 @@
    "forum": false,
    "avenues": false,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c673dcc02886e9bb4600e/1664902973619/R658.jpg"
  },
@@ -13022,6 +14022,8 @@
    "forum": false,
    "avenues": false,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c674181ad4c4fd150e1fa/1664902978195/R659.jpg"
  },
@@ -13048,6 +14050,8 @@
    "forum": false,
    "avenues": false,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "5da07b1ddae4bb3b0fec50e7/t/633c691bcd9a84553f0e4f7f/1664903451957/Isetan.jpg"
  },
@@ -13074,6 +14078,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13100,6 +14106,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13126,6 +14134,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13152,6 +14162,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13178,6 +14190,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13204,6 +14218,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13230,6 +14246,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13247,7 +14265,7 @@
    "ismoved": false,
    "moved": "-",
    "moved2": "-",
-   "usname": "Kaerntner Strasse",
+   "usname": "Karntner Straße",
    "formername": "-",
    "formerdate": "-",
    "type": "NSD",
@@ -13256,6 +14274,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13282,6 +14302,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13308,6 +14330,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13334,6 +14358,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13360,6 +14386,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13386,6 +14414,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13412,6 +14442,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13438,6 +14470,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13464,6 +14498,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13490,6 +14526,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13516,6 +14554,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13542,6 +14582,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13568,6 +14610,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13594,6 +14638,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13620,6 +14666,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13646,6 +14694,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13672,6 +14722,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13698,6 +14750,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13724,6 +14778,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13750,6 +14806,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": true,
+   "trees": true,
    "pickup": true,
    "broken": "-"
  },
@@ -13776,6 +14834,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": true,
    "pickup": false,
    "broken": "-"
  },
@@ -13802,6 +14862,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13828,6 +14890,8 @@
    "forum": true,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13854,6 +14918,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": true,
    "broken": "-"
  },
@@ -13880,6 +14946,8 @@
    "forum": false,
    "avenues": true,
    "gp": true,
+   "plaza": false,
+   "trees": false,
    "pickup": true,
    "broken": "-"
  },
@@ -13906,6 +14974,8 @@
    "forum": false,
    "avenues": false,
    "gp": false,
+   "plaza": false,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  },
@@ -13932,6 +15002,8 @@
    "forum": true,
    "avenues": true,
    "gp": false,
+   "plaza": true,
+   "trees": false,
    "pickup": false,
    "broken": "-"
  }
