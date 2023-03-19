@@ -926,7 +926,7 @@
    "trees": true,
    "green": false,
    "pickup": false,
-   "boardroom": false,
+   "boardroom": true,
    "broken": "-"
  },
  {
@@ -15773,7 +15773,7 @@
    "avenues": true,
    "gp": true,
    "plaza": true,
-   "trees": false,
+   "trees": true,
    "green": false,
    "pickup": false,
    "boardroom": false,
