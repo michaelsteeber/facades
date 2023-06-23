@@ -1,0 +1,84 @@
+[
+   {
+      "date":"2023-06-23",
+      "type":"update",
+      "comment":"Facades 1.2",
+      "details":{
+         "line1":"• Support for the latest store designs",
+         "line2":"• Browse with new grid and thumbnail views",
+         "line3":"• Improved VoiceOver support",
+         "line4":"• See what's new at any time in settings",
+	 "line5":""
+      }
+   },
+   {
+      "date":"2023-06-15",
+      "type":"database",
+      "comment":"• Battersea: Design Style Updated"
+   },
+   {
+      "date":"2023-06-02",
+      "type":"database",
+      "comment":"• Battersea: Store Added\n• Tysons Corner: Address Updated"
+   },
+   {
+      "date":"2023-05-27",
+      "type":"database",
+      "comment":"• Tysons Corner: Design Style Updated\n• Freehold Raceway Mall: Design Style Updated\n• Georgetown: Added Pickup Counter"
+   },
+   {
+      "date":"2023-05-18",
+      "type":"database",
+      "comment":"• Tysons Corner: Design Style Updated"
+   },
+   {
+      "date":"2023-04-28",
+      "type":"database",
+      "comment":"• MixC Shenzhen: Design Style Updated"
+   },
+   {
+      "date":"2023-04-27",
+      "type":"database",
+      "comment":"• R770: Hiring Location Added"
+   },
+   {
+      "date":"2023-04-19",
+      "type":"database",
+      "comment":"• Saket: Design Style Updated\n• MixC Shenzhen: Details Updated"
+   },
+   {
+      "date":"2023-04-17",
+      "type":"database",
+      "comment":"• BKC: Design Style Updated"
+   },
+   {
+      "date":"2023-04-11",
+      "type":"database",
+      "comment":"• BKC: Details Updated\n• Saket: Store Added"
+   },
+   {
+      "date":"2023-04-05",
+      "type":"database",
+      "comment":"• BKC: Store Added"
+   },
+   {
+      "date":"2023-04-02",
+      "type":"database",
+      "comment":"• MixC Shenzhen: Store Added"
+   },
+   {
+      "date":"2023-03-28",
+      "type":"database",
+      "comment":"• Gangnam: Details Updated"
+   },
+   {
+      "date":"2023-03-26",
+      "type":"database",
+      "comment":"• The Summit: Design Style & Address Updated\n• Derby Street: Added Pickup Counter"
+   },
+   {
+      "date":"2023-03-19",
+      "type":"database",
+      "comment":"• Scottsdale Fashion Square: Added Boardroom\n• Bağdat Caddesi: Added Trees"
+   }
+]
