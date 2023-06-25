@@ -1,9 +1,9 @@
 [
    {
-      "date":"2023-06-25",
+      "date":"2023-06-26",
       "type":"update",
       "comment":"Facades 1.2",
-      "details":"• Support for the latest store designs\n• Browse with new grid and thumbnail views\n• Improved VoiceOver support\n• See what's new at any time in settings"
+      "details":"• Support for the latest store designs\n• Browse with new grid and thumbnail views\n• Filter by outdoor and indoor stores\n• Improved VoiceOver support\n• See what's new at any time in settings"
    },
    {
       "date":"2023-06-15",
