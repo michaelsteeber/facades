@@ -1,5 +1,10 @@
 [
    {
+      "date":"2023-07-04",
+      "type":"database",
+      "comment":"• Aix-en-Provence: Address Corrected"
+   },
+   {
       "date":"2023-07-03",
       "type":"update",
       "comment":"Facades 1.2",
