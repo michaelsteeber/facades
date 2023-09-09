@@ -10318,8 +10318,8 @@
    "outdoor": true,
    "trees": false,
    "green": false,
-   "pickup": false,
-   "boardroom": true,
+   "pickup": true,
+   "boardroom": false,
    "broken": "-"
  },
  {
