@@ -1,5 +1,10 @@
 [
    {
+      "date":"2023-09-09",
+      "type":"database",
+      "comment":"• Pudong: Added Pickup Counter"
+   },
+   {
       "date":"2023-08-08",
       "type":"database",
       "comment":"• Pasadena: Removed Briefing Room\n• Nanjing East: Design Style Updated"
