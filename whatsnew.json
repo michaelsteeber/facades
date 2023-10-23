@@ -1,5 +1,10 @@
 [
    {
+      "date":"2023-10-22",
+      "type":"database",
+      "comment":"• MixC Wenzhou: Store Added"
+   },
+   {
       "date":"2023-09-09",
       "type":"database",
       "comment":"• Pudong: Added Pickup Counter"
