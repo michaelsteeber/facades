@@ -4,7 +4,7 @@
     "largethumbsuffix": ".png?resize=1152:648&output-format=jpg&output-quality=50",
     "thumbnailsuffix": ".png?resize=240:135&output-format=jpg&output-quality=50",
     "contextsuffix": ".png?resize=600:340&output-format=jpg&output-quality=80",
-    "imageprefix": "https://static1.squarespace.com/static/",
+    "imageprefix": "https://assets.facadesapp.com/",
     "changes": [
         {
             "date":"2023-11-03",
