@@ -1,0 +1,121 @@
+{
+    "heroprefix": "https://rtlimages.apple.com/cmc/dieter/store/16_9/R",
+    "herosuffix": ".png?resize=1600:900&output-format=jpg&output-quality=85",
+    "largethumbsuffix": ".png?resize=1152:648&output-format=jpg&output-quality=50",
+    "thumbnailsuffix": ".png?resize=240:135&output-format=jpg&output-quality=50",
+    "contextsuffix": ".png?resize=600:340&output-format=jpg&output-quality=80",
+    "imageprefix": "https://static1.squarespace.com/static/",
+    "changes": [
+        {
+            "date":"2023-11-03",
+            "type":"database",
+            "comment":"• MixC Wenzhou: Design Style Updated"
+        },
+        {
+            "date":"2023-10-22",
+            "type":"database",
+            "comment":"• MixC Wenzhou: Store Added"
+        },
+        {
+            "date":"2023-09-09",
+            "type":"database",
+            "comment":"• Pudong: Added Pickup Counter"
+        },
+        {
+            "date":"2023-08-08",
+            "type":"database",
+            "comment":"• Pasadena: Removed Briefing Room\n• Nanjing East: Design Style Updated"
+        },
+        {
+            "date":"2023-07-22",
+            "type":"database",
+            "comment":"• Tice's Corner: Design Style Updated"
+        },
+        {
+            "date":"2023-07-06",
+            "type":"database",
+            "comment":"• Walnut Street: Removed Briefing Room\n• Robina: Address Corrected"
+        },
+        {
+            "date":"2023-07-04",
+            "type":"database",
+            "comment":"• Aix-en-Provence: Address Corrected"
+        },
+        {
+            "date":"2023-07-03",
+            "type":"update",
+            "comment":"Facades 1.2",
+            "details":"• Support for the latest store designs\n• Browse with new grid and thumbnail views\n• Filter by outdoor and indoor stores\n• Improved VoiceOver support\n• See what's new at any time in settings"
+        },
+        {
+            "date":"2023-06-15",
+            "type":"database",
+            "comment":"• Battersea: Design Style Updated"
+        },
+        {
+            "date":"2023-06-02",
+            "type":"database",
+            "comment":"• Battersea: Store Added\n• Tysons Corner: Address Updated"
+        },
+        {
+            "date":"2023-05-27",
+            "type":"database",
+            "comment":"• Tysons Corner: Design Style Updated\n• Freehold Raceway Mall: Design Style Updated\n• Georgetown: Added Pickup Counter"
+        },
+        {
+            "date":"2023-05-18",
+            "type":"database",
+            "comment":"• Tysons Corner: Design Style Updated"
+        },
+        {
+            "date":"2023-04-28",
+            "type":"database",
+            "comment":"• MixC Shenzhen: Design Style Updated"
+        },
+        {
+            "date":"2023-04-27",
+            "type":"database",
+            "comment":"• R770: Hiring Location Added"
+        },
+        {
+            "date":"2023-04-19",
+            "type":"database",
+            "comment":"• Saket: Design Style Updated\n• MixC Shenzhen: Details Updated"
+        },
+        {
+            "date":"2023-04-17",
+            "type":"database",
+            "comment":"• BKC: Design Style Updated"
+        },
+        {
+            "date":"2023-04-11",
+            "type":"database",
+            "comment":"• BKC: Details Updated\n• Saket: Store Added"
+        },
+        {
+            "date":"2023-04-05",
+            "type":"database",
+            "comment":"• BKC: Store Added"
+        },
+        {
+            "date":"2023-04-02",
+            "type":"database",
+            "comment":"• MixC Shenzhen: Store Added"
+        },
+        {
+            "date":"2023-03-28",
+            "type":"database",
+            "comment":"• Gangnam: Details Updated"
+        },
+        {
+            "date":"2023-03-26",
+            "type":"database",
+            "comment":"• The Summit: Design Style & Address Updated\n• Derby Street: Added Pickup Counter"
+        },
+        {
+            "date":"2023-03-19",
+            "type":"database",
+            "comment":"• Scottsdale Fashion Square: Added Boardroom\n• Bağdat Caddesi: Added Trees"
+        }
+    ]
+}
