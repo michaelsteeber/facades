@@ -7,6 +7,11 @@
     "imageprefix": "https://assets.facadesapp.com/",
     "changes": [
         {
+            "date":"2023-11-26",
+            "type":"database",
+            "comment":"• Hanam: Store Added"
+        },
+        {
             "date":"2023-11-18",
             "type":"database",
             "comment":"• South Shore: Design Style Updated"
