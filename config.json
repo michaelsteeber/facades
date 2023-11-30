@@ -5,7 +5,13 @@
     "thumbnailsuffix": ".png?resize=240:135&output-format=jpg&output-quality=50",
     "contextsuffix": ".png?resize=600:340&output-format=jpg&output-quality=80",
     "imageprefix": "https://assets.facadesapp.com/",
+    "legacysupport": true,
     "changes": [
+        {
+            "date":"2023-11-30",
+            "type":"database",
+            "comment":"• Birkdale Village: Store Added"
+        },
         {
             "date":"2023-11-26",
             "type":"database",
