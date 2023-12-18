@@ -1,5 +1,11 @@
 [
    {
+       "date":"2023-12-18",
+       "type":"update",
+       "comment":"Facades 2.0",
+       "details":"• Timeline: Explore the history and grand opening of any store.\n• Visit receipts: Track multiple store visits and share custom visit receipts.\n• Custom lists: Create and share store lists that sync with iCloud.\n• Search filters: Build advanced search filters on the main store list.\n• Shortcuts: Find nearby stores and search with the Action button on iPhone 15 Pro.\n• Updated design with an all-new Browse tab and Split View layout on iPad.\n• Learn about store features in the Glossary.\n• Choose a home store and home region for quick access in the Browse tab.\n• Share an image with store details from any store page.\n• Share a summary of your store visits and export a CSV list.\n• View any store list on a map.\n• Global Map includes realistic elevation and satellite views.\n• View supported stores in Maps Look Around."
+   },
+   {
       "date":"2023-12-14",
       "type":"database",
       "comment":"• Birkdale Village: Design Style Updated"
