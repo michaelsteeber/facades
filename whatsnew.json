@@ -1,5 +1,10 @@
 [
    {
+       "date":"2024-01-03",
+       "type":"database",
+       "comment":"• Champs-Élysées: Added Trees\n• Opéra: Removed Boardroom\n• Union Square, Eaton Centre, Christiana Mall: Timeline Added Renovations\n• Shinsaibashi: Added Avenues"
+   },
+   {
        "date":"2023-12-18",
        "type":"update",
        "comment":"Facades 2.0",
