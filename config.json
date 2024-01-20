@@ -8,6 +8,11 @@
     "legacysupport": false,
     "changes": [
         {
+            "date":"2024-01-20",
+            "type":"database",
+            "comment":"• Infinite Loop: Store Closed\n• Royal Hawaiian: Store Closed"
+        },
+        {
             "date":"2024-01-19",
             "type":"database",
             "comment":"• Hongdae: Design Style Updated\n• Nanjing East: Added Timeline Renovation"
