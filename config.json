@@ -5,8 +5,19 @@
     "thumbnailsuffix": ".png?resize=240:135&output-format=jpg&output-quality=50",
     "contextsuffix": ".png?resize=600:340&output-format=jpg&output-quality=80",
     "imageprefix": "https://assets.facadesapp.com/",
-    "legacysupport": true,
+    "legacysupport": false,
     "changes": [
+        {
+            "date":"2024-01-19",
+            "type":"database",
+            "comment":"• Hongdae: Design Style Updated\n• Nanjing East: Added Timeline Renovation"
+        },
+        {
+            "date":"2024-01-17",
+            "type":"update",
+            "comment":"Facades 2.0.2",
+            "details":"• Added support for visionOS"
+        },
         {
             "date":"2024-01-07",
             "type":"database",
