@@ -12550,7 +12550,7 @@
    "outdoor": false,
    "trees": false,
    "green": false,
-   "pickup": false,
+   "pickup": true,
    "boardroom": false,
    "broken": "-"
  },
@@ -16488,7 +16488,7 @@
    "trees": true,
    "green": false,
    "pickup": false,
-   "boardroom": false,
+   "boardroom": true,
    "broken": "-"
  },
  {
